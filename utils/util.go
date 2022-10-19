@@ -3,8 +3,8 @@ package utils
 import (
 	"fmt"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/making-choice-personal/lachesis-base/hash"
+	"github.com/making-choice-personal/lachesis-base/inter/idx"
 )
 
 // NameOf returns human readable string representation.

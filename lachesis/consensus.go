@@ -1,8 +1,8 @@
 package lachesis
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/making-choice-personal/lachesis-base/inter/dag"
+	"github.com/making-choice-personal/lachesis-base/inter/pos"
 )
 
 // Consensus is a consensus interface.

@@ -1,9 +1,9 @@
 package vecfc
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/vecengine"
+	"github.com/making-choice-personal/lachesis-base/inter/dag"
+	"github.com/making-choice-personal/lachesis-base/inter/idx"
+	"github.com/making-choice-personal/lachesis-base/vecengine"
 )
 
 func (b *LowestAfterSeq) InitWithEvent(i idx.Validator, e dag.Event) {

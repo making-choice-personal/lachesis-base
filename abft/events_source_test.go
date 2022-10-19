@@ -5,9 +5,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag/tdag"
+	"github.com/making-choice-personal/lachesis-base/hash"
+	"github.com/making-choice-personal/lachesis-base/inter/dag"
+	"github.com/making-choice-personal/lachesis-base/inter/dag/tdag"
 )
 
 // EventStore is a abft event storage for test purpose.

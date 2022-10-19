@@ -1,7 +1,7 @@
 package pos
 
 import (
-	"github.com/making-choice-personal/lachesis-base/inter/idx"
+	"github.com/Fantom-foundation/lachesis-base/inter/idx"
 )
 
 type (

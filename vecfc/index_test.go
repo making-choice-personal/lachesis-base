@@ -3,11 +3,11 @@ package vecfc
 import (
 	"testing"
 
-	"github.com/making-choice-personal/lachesis-base/hash"
-	"github.com/making-choice-personal/lachesis-base/inter/dag"
-	"github.com/making-choice-personal/lachesis-base/inter/dag/tdag"
-	"github.com/making-choice-personal/lachesis-base/inter/pos"
-	"github.com/making-choice-personal/lachesis-base/kvdb/memorydb"
+	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/Fantom-foundation/lachesis-base/inter/dag"
+	"github.com/Fantom-foundation/lachesis-base/inter/dag/tdag"
+	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/Fantom-foundation/lachesis-base/kvdb/memorydb"
 )
 
 var (

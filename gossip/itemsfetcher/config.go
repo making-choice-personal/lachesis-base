@@ -3,7 +3,7 @@ package itemsfetcher
 import (
 	"time"
 
-	"github.com/making-choice-personal/lachesis-base/utils/cachescale"
+	"github.com/Fantom-foundation/lachesis-base/utils/cachescale"
 )
 
 type Config struct {

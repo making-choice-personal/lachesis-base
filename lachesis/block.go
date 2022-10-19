@@ -1,7 +1,7 @@
 package lachesis
 
 import (
-	"github.com/making-choice-personal/lachesis-base/hash"
+	"github.com/Fantom-foundation/lachesis-base/hash"
 )
 
 // Block is a part of an ordered chain of batches of events.

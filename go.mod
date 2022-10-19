@@ -1,4 +1,4 @@
-module github.com/making-choice-personal/lachesis-base
+module github.com/Fantom-foundation/lachesis-base
 
 go 1.14
 

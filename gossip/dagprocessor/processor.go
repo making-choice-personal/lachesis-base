@@ -5,14 +5,14 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/making-choice-personal/lachesis-base/eventcheck"
-	"github.com/making-choice-personal/lachesis-base/eventcheck/queuedcheck"
-	"github.com/making-choice-personal/lachesis-base/gossip/dagordering"
-	"github.com/making-choice-personal/lachesis-base/hash"
-	"github.com/making-choice-personal/lachesis-base/inter/dag"
-	"github.com/making-choice-personal/lachesis-base/inter/idx"
-	"github.com/making-choice-personal/lachesis-base/utils/datasemaphore"
-	"github.com/making-choice-personal/lachesis-base/utils/workers"
+	"github.com/Fantom-foundation/lachesis-base/eventcheck"
+	"github.com/Fantom-foundation/lachesis-base/eventcheck/queuedcheck"
+	"github.com/Fantom-foundation/lachesis-base/gossip/dagordering"
+	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/Fantom-foundation/lachesis-base/inter/dag"
+	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/Fantom-foundation/lachesis-base/utils/datasemaphore"
+	"github.com/Fantom-foundation/lachesis-base/utils/workers"
 )
 
 var (

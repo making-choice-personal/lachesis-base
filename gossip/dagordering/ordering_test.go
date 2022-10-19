@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/making-choice-personal/lachesis-base/hash"
-	"github.com/making-choice-personal/lachesis-base/inter/dag"
-	"github.com/making-choice-personal/lachesis-base/inter/dag/tdag"
-	"github.com/making-choice-personal/lachesis-base/inter/idx"
+	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/Fantom-foundation/lachesis-base/inter/dag"
+	"github.com/Fantom-foundation/lachesis-base/inter/dag/tdag"
+	"github.com/Fantom-foundation/lachesis-base/inter/idx"
 )
 
 func TestEventsBuffer(t *testing.T) {

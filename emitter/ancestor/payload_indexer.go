@@ -1,9 +1,9 @@
 package ancestor
 
 import (
-	"github.com/making-choice-personal/lachesis-base/hash"
-	"github.com/making-choice-personal/lachesis-base/inter/dag"
-	"github.com/making-choice-personal/lachesis-base/utils/wlru"
+	"github.com/Fantom-foundation/lachesis-base/hash"
+	"github.com/Fantom-foundation/lachesis-base/inter/dag"
+	"github.com/Fantom-foundation/lachesis-base/utils/wlru"
 )
 
 type PayloadIndexer struct {

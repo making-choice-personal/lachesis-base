@@ -7,11 +7,11 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/making-choice-personal/lachesis-base/inter/dag"
-	"github.com/making-choice-personal/lachesis-base/inter/dag/tdag"
-	"github.com/making-choice-personal/lachesis-base/inter/idx"
-	"github.com/making-choice-personal/lachesis-base/inter/pos"
-	"github.com/making-choice-personal/lachesis-base/lachesis"
+	"github.com/Fantom-foundation/lachesis-base/inter/dag"
+	"github.com/Fantom-foundation/lachesis-base/inter/dag/tdag"
+	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/Fantom-foundation/lachesis-base/lachesis"
 )
 
 func TestConfirmBlocks_1(t *testing.T) {
